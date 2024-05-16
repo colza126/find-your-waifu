@@ -1,3 +1,3 @@
 # find-your-waifu
 
-Programma da definire basato su https://www.waifu.im/
+Bot di discord basato su https://www.waifu.im/
